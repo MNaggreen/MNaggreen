@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MNaggreen
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python for backend, Java Script + React for frontend
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me https://t.me/MNaggreen
 
